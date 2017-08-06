@@ -1,4 +1,4 @@
-IMAGE = bgruening/busybox-bash:0.1
+IMAGE = djhshih/busybox-bash:0.1
 
 all: build
 
